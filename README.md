@@ -1,8 +1,4 @@
-### Hi there 👋
-
 ![Dhoshianaaa's github stats](https://github-readme-stats.vercel.app/api?username=hoshianaaa&count_private=true&show_icons=true&theme=radical)
-
-<img src="https://github-profile-trophy.vercel.app/?username=hosihanaaa&theme=onedark" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshianaaa&layout=compact&hide=html,css,vhdl,verilog&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
