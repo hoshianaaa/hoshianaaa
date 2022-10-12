@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 # profile
 
-## [creating] 3d vision controller : Controller for anyone to build 3d vision application systems. (2022/7 ~ )
+- [creating] 3d vision controller : Controller for anyone to build 3d vision application systems. (2022/7 ~ )
 ![Peek 2022-09-25 01-08](https://user-images.githubusercontent.com/40942409/195293558-8ec818fd-5b73-4494-b826-6016ab48a63c.gif)
 
-## Remote Control & Remote Navigation system for 4 leg robot Unitree A1 (2020.9 ~ 2021.12)
+- Remote Control & Remote Navigation system for 4 leg robot Unitree A1 (2020.9 ~ 2021.12)
 
 https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html
 
-## Elevator navigation system (2019.11 ~ 2020.2)
+- Elevator navigation system (2019.11 ~ 2020.2)
 
-
-[![サービス紹介動画](https://user-images.githubusercontent.com/40942409/195313618-f5f6a82d-f5c7-4b1a-8a08-9feb834e4fb7.png)](https://youtu.be/4mpD3kPHXvU)
+[![ElevatorNavigationSystem](https://user-images.githubusercontent.com/40942409/195313618-f5f6a82d-f5c7-4b1a-8a08-9feb834e4fb7.png)](https://youtu.be/4mpD3kPHXvU)
