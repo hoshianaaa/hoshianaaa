@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 
 https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html
 
+- Oranges bin picking system  (2020.1 ~ 2020.4)
+
+
+
+
+https://user-images.githubusercontent.com/40942409/195327969-f1352c18-c115-443f-bca0-519a08e07e3c.mp4
+
+
 - Elevator navigation system (2019.11 ~ 2020.2)
 
 https://user-images.githubusercontent.com/40942409/195317063-7e76cf87-2905-4388-89e4-ef53c50ea344.mp4
