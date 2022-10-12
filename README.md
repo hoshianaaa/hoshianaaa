@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html
 
 - [Created] elevator navigation system 
-![Screenshot from 2022-10-12 18-51-28](https://user-images.githubusercontent.com/40942409/195313618-f5f6a82d-f5c7-4b1a-8a08-9feb834e4fb7.png)
-
 
 
 [![サービス紹介動画](https://user-images.githubusercontent.com/84756197/173222007-3aefa245-4c0e-45e6-9855-91f0e3be89ed.png)](https://youtu.be/4mpD3kPHXvU)
