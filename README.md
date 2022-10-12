@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # profile
 
-- 3D Vision Controller (2022.7 ~ )
+- 3D vision controller (2022.7 ~ )
 ![Peek 2022-09-25 01-08](https://user-images.githubusercontent.com/40942409/195293558-8ec818fd-5b73-4494-b826-6016ab48a63c.gif)
 
 - Remote control navigation system 4leg robot (2020.9 ~ 2021.12)
