@@ -27,4 +27,5 @@ https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html
 
 - Elevator navigation system (2019.11 ~ 2020.2)
 
-[![ElevatorNavigationSystem](https://user-images.githubusercontent.com/40942409/195313618-f5f6a82d-f5c7-4b1a-8a08-9feb834e4fb7.png)](https://youtu.be/4mpD3kPHXvU)
+https://user-images.githubusercontent.com/40942409/195317063-7e76cf87-2905-4388-89e4-ef53c50ea344.mp4
+
