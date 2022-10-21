@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html  
 
-https://www.youtube.com/watch?time_continue=2&v=JxVa9gj0WO0&feature=emb_title
-
 (2020.9 ~ 2021.12)
 
 - Oranges bin picking system  
