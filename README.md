@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Peek 2022-09-25 01-08](https://user-images.githubusercontent.com/40942409/195293558-8ec818fd-5b73-4494-b826-6016ab48a63c.gif)  
 (2022.7 ~ )
   
-# Remote control & navigation system 4leg robot 
+# Remote control & navigation with 4leg robot 
 
 https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html  
 
@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/40942409/195327969-f1352c18-c115-443f-
 
 (2020.1 ~ 2020.4)
 
-# Elevator navigation system 
+# Elevator navigation 
 
 https://user-images.githubusercontent.com/40942409/195317063-7e76cf87-2905-4388-89e4-ef53c50ea344.mp4  
 
