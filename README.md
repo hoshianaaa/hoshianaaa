@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Peek 2022-09-25 01-08](https://user-images.githubusercontent.com/40942409/195293558-8ec818fd-5b73-4494-b826-6016ab48a63c.gif)  
   
-# Remote_Control_&_Navigation_With_4leg_robot (2020.9 ~ 2021.12)
+# Remote_Control_&_Navigation_With_4_Leg_Robot (2020.9 ~ 2021.12)
 
 https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html  
 
