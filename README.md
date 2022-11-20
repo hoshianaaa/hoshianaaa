@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 # 3D_Vision_Controller 
 
 ![Peek 2022-09-25 01-08](https://user-images.githubusercontent.com/40942409/195293558-8ec818fd-5b73-4494-b826-6016ab48a63c.gif)  
+
+<--
 (2022.7 ~ )
+-->
   
 # Remote_Control_&_Navigation_With_4leg_robot 
 
