@@ -35,6 +35,6 @@ https://user-images.githubusercontent.com/40942409/195327969-f1352c18-c115-443f-
 
 https://user-images.githubusercontent.com/40942409/195317063-7e76cf87-2905-4388-89e4-ef53c50ea344.mp4  
 
-# Make_Robots (2018.4 ~ 2019.1)
+# Make_Robots (2018.4 ~ 2019.2)
 
 ![Screenshot from 2022-12-25 23-26-36](https://user-images.githubusercontent.com/40942409/209471843-2e2f6aaa-6c83-4b5b-b2bb-4b99f88fd4e7.png)
