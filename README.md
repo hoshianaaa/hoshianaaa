@@ -27,7 +27,7 @@ https://hoshinarobot.base.shop/
   
 # Remote_Control_&_Navigation_With_4_Leg_Robot (2020.9 ~ 2021.12)
 
-<iframe src=https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html></iframe>
+https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html
 
 # Oranges_Bin_Picking (2020.1 ~ 2020.4)
 
