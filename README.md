@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 3D_Vision_Controller (2022.7 ~ )
+# 3D_Vision_Controller (2022.7 ~ 2023.2)
 
 
 
