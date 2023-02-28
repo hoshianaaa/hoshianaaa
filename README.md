@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 
 
 
-https://user-images.githubusercontent.com/40942409/221816588-ed33d59e-542e-4256-aef6-0714873e2e51.mp4
-
-
 
 https://hoshinarobot.base.shop/
   
