@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 3D_Vision_Controller (2022.7 ~ 2023.2)
 
-For easy construction of 3D vision system
+controller for easy construction of 3D vision system
 
 https://user-images.githubusercontent.com/40942409/221820428-e7b8650a-c23e-4d17-b97e-dc11e9058509.mp4
 
