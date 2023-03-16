@@ -20,16 +20,18 @@ Here are some ideas to get you started:
 
 # VC-300  (2022.7 ~ 2023.2)
 
-3d vision controller , easy construction of 3D vision system
+3d vision controller for easy construction of 3D vision system
+
+- EC site: https://hoshinarobot.base.shop/
+
+- Document: https://hoshina-robotics.com/robot-vision-controller-document/
+
 
 https://user-images.githubusercontent.com/40942409/221819493-19e7e49b-6aad-40b8-a0f8-1c9b3caef5e7.mp4
 
 https://user-images.githubusercontent.com/40942409/221820428-e7b8650a-c23e-4d17-b97e-dc11e9058509.mp4  
 
-- EC site: https://hoshinarobot.base.shop/
 
-- Document: https://hoshina-robotics.com/robot-vision-controller-document/
-  
 # Remote_Control_&_Navigation_With_4_Leg_Robot (2020.9 ~ 2021.12)
 
 https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html
