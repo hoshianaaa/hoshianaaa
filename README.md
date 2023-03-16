@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 3D_Vision_Controller (2022.7 ~ 2023.2)
+# VC-300 (3D_Vision_Controller) (2022.7 ~ 2023.2)
 
 controller for easy construction of 3D vision system
 
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/40942409/221819493-19e7e49b-6aad-40b8-
 
 https://user-images.githubusercontent.com/40942409/221820428-e7b8650a-c23e-4d17-b97e-dc11e9058509.mp4
 
-https://hoshinarobot.base.shop/
+shop: https://hoshinarobot.base.shop/
   
 # Remote_Control_&_Navigation_With_4_Leg_Robot (2020.9 ~ 2021.12)
 
