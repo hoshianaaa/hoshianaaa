@@ -26,7 +26,9 @@ https://user-images.githubusercontent.com/40942409/221819493-19e7e49b-6aad-40b8-
 
 https://user-images.githubusercontent.com/40942409/221820428-e7b8650a-c23e-4d17-b97e-dc11e9058509.mp4
 
-shop: https://hoshinarobot.base.shop/
+EC site: https://hoshinarobot.base.shop/
+
+Document: https://hoshina-robotics.com/robot-vision-controller-document/
   
 # Remote_Control_&_Navigation_With_4_Leg_Robot (2020.9 ~ 2021.12)
 
