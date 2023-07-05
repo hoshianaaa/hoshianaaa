@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 3d vision controller (2022.7 ~ 2023.2)
 
-ロボットアームに取り付けることで３次元ピッキングシステムをWebUI簡単に構築するためのコントローラを作製
+ロボットアームに取り付けることで、３次元ピッキングシステムをWebUI簡単に構築するためのコントローラを作製
 
 - EC site: https://hoshinarobot.base.shop/
 
@@ -39,6 +39,8 @@ https://user-images.githubusercontent.com/40942409/221820428-e7b8650a-c23e-4d17-
 https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html
 
 # Oranges_Bin_Picking (2020.1 ~ 2020.4)
+
+
 
 https://user-images.githubusercontent.com/40942409/195327969-f1352c18-c115-443f-bca0-519a08e07e3c.mp4  
 
