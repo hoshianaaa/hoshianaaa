@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# VC-300  (2022.7 ~ 2023.2)
+# 3d vision controller (2022.7 ~ 2023.2)
 
-controller for easy construction of 3 vision system
+controller for easy construction of 3d vision system
 
 - EC site: https://hoshinarobot.base.shop/
 
