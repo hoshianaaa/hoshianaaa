@@ -53,6 +53,8 @@ https://user-images.githubusercontent.com/40942409/195317063-7e76cf87-2905-4388-
 
 # lawn detection
 
+3DLidarのレーザー反射強度を用いて芝生の認識を行い、ROS Navigationのコストマップに反映することで芝生の回避経路を生成可能とした
+
 ![Screenshot from 2023-04-14 22-19-25](https://user-images.githubusercontent.com/40942409/232055393-45b25433-1c32-461f-934f-9b0d14e570ef.png)
 
 # Make_Robots (2018.4 ~ 2019.2)
