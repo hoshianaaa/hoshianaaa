@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 3d vision controller (2022.7 ~ 2023.2)
 
-ロボットアームに取り付けることで３次元ピッキングシステムを簡単に構築するための、コントローラを作製
+ロボットアームに取り付けることで３次元ピッキングシステムをWebUI簡単に構築するためのコントローラを作製
 
 - EC site: https://hoshinarobot.base.shop/
 
