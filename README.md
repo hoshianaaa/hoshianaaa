@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 # 3d vision controller (2022.7 ~ 2023.2)
 
-３次元ピッキングシステムをWebUI簡単に構築するためのコントローラを作製
-
 - EC site: https://hoshinarobot.base.shop/
 
 - Document: https://hoshina-robotics.com/robot-vision-controller-document/
@@ -33,8 +31,6 @@ https://user-images.githubusercontent.com/40942409/221820428-e7b8650a-c23e-4d17-
 
 
 # Remote_Control_&_Navigation_With_4_Leg_Robot (2020.9 ~ 2021.12)
-
-４脚ロボットの遠隔操作、遠隔自動走行システムの作製
 
 https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html
 
@@ -49,7 +45,7 @@ https://user-images.githubusercontent.com/40942409/195327969-f1352c18-c115-443f-
 
 # Elevator_Navigation (2019.11 ~ 2020.2)
 
-ROS Navigation に下記内容を統合して、エレベーター乗り降りを可能とした
+ROS Navigation に下記内容を統合、エレベーター乗り降りを可能とした
 - ros navigation map server 拡張
 - Darknet を使用したエレベータのボタン認識
 - 各種行動
