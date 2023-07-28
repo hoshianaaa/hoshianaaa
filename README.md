@@ -63,5 +63,5 @@ https://user-images.githubusercontent.com/40942409/195317063-7e76cf87-2905-4388-
 
 ##  https://github.com/lucasw/rviz_interactive_tf (2023/07/28)
 
-- Package detail : TF setting from interactive marker ros pkg
+- Package : TF setting from interactive marker ros pkg
 - Contribution : Add Initial pose setting from rosparam
