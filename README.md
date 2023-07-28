@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 # OSS Contribuions
 
-- TF setting from interactive marker pkg : Add Initial pose setting from rosparam
+##  https://github.com/lucasw/rviz_interactive_tf
 
- https://github.com/lucasw/rviz_interactive_tf
+- Package detail : TF setting from interactive marker ros pkg
+- Contribution : Add Initial pose setting from rosparam
 
 # 3d vision controller (2022.7 ~ 2023.2)
 
