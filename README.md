@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Contribuions
+# OSS Contribuions
 
 - https://github.com/lucasw/rviz_interactive_tf
 
