@@ -44,7 +44,7 @@ https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html
 
 # Oranges_Bin_Picking (2020.1 ~ 2020.4)
 
-「CAD モデルを用いないばら積みシーンからの物体検出」  
+-「CAD モデルを用いないばら積みシーンからの物体検出」  
 https://www.jstage.jst.go.jp/article/jrsj/36/5/36_36_368/_pdf
 
 https://user-images.githubusercontent.com/40942409/195327969-f1352c18-c115-443f-bca0-519a08e07e3c.mp4  
