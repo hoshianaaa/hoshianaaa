@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 - Document: https://hoshina-robotics.com/robot-vision-controller-document/
 
+- ROS Japan UG #49 LT大会:「ROSを用いたロボットアーム用 3次元ビジョンコントローラの開発 / 保科 亮太郎」 https://www.youtube.com/watch?v=a5JkQQTuatA
 
 https://user-images.githubusercontent.com/40942409/221819493-19e7e49b-6aad-40b8-a0f8-1c9b3caef5e7.mp4
 
