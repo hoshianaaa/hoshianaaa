@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/40942409/221820428-e7b8650a-c23e-4d17-
 
 # Remote_Control_&_Navigation_With_4_Leg_Robot (2020.9 ~ 2021.12)
 
-- Main software developer
+- Core software developer
 
 [![Screenshot from 2023-12-05 22-53-57](https://github.com/hoshianaaa/hoshianaaa/assets/40942409/7c4a4e8e-03a0-40cd-b993-5c3549f26ad2)](https://www.taisei.co.jp/about_us/wn/2021/210517_8230.html)
 
